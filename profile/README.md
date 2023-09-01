@@ -25,5 +25,5 @@ Many of Conviction’s staff, past and present, have contributed to the communit
 
 **Want to help?**  
 
-- [Find out how to volunteer with us](https://www.conviction.org.uk/get-involved/volunteer)
+- [Find out how to volunteer with us](https://www.conviction.org.uk/get-involved/volunteer/)
 - [Contribute and get involved in the Conviction Discussions channel](https://github.com/convictioncares/.github/discussions/new/choose/) 
